@@ -1,2 +1,3 @@
 # Stunning-Landing-Page
-Edyoda Assignment
+
+Created this Stunning-Landing Page using HTML5 & CSS3 as a part of Edyoda Assignment
