@@ -45,6 +45,7 @@ main{
     border: none;
     cursor: pointer;
     transition: all 500ms;
+    outline: none;
 }
 #account-button button:hover{
     background-color: #5243C0;
@@ -70,6 +71,7 @@ h1{
     padding: 20px 35px;
     border-radius: 23px;
     border: none;
+    outline: none;
     box-shadow: 0 5px 5px lightgray;
     cursor: pointer;
     transition: all 500ms;
